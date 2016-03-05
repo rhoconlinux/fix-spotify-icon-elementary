@@ -1,6 +1,6 @@
-# fix-spotify-icon [![Build Status](https://travis-ci.org/faviouz/fix-spotify-icon.svg?branch=master)](https://travis-ci.org/faviouz/fix-spotify-icon)
+# fix-spotify-icon for Elementary 
 
-> Shell script to fix the Spotify icon in Ubuntu.
+> Shell script to fix the Spotify icon in Elementary OS Freya.
 
 ![](http://i.imgur.com/14iOPw7.png)
 
@@ -9,15 +9,11 @@ Spotify uses a green icon in the system tray, which is not in accordance with th
 ## Installation
 
 ```bash
-$ sh -c "$(wget https://raw.githubusercontent.com/faviouz/fix-spotify-icon/master/install.sh -O -)"
+$ sh -c "$(wget https://raw.githubusercontent.com/rhoconlinux/fix-spotify-icon-elementary/master/install.sh -O -)"
 ```
 
-```bash
-$ sh -c "$(curl -fsSL https://raw.githubusercontent.com/faviouz/fix-spotify-icon/master/install.sh)"
-```
+## This is a fork
+This is just an adaptation of the work made by [Faviouz](https://github.com/faviouz). Thanks man! :)
+https://github.com/faviouz/fix-spotify-icon
 
-## Usage
 
-```bash
-$ fix-spotify-icon
-```

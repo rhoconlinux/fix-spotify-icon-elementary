@@ -16,4 +16,6 @@ Spotify uses a green icon in the system tray, which is not in accordance with th
 This is just an adaptation of the work made by [Faviouz](https://github.com/faviouz). Thanks man! :)
 https://github.com/faviouz/fix-spotify-icon
 
+(I changed the color and size of the icon to fit Luna/Freya and adapted the script to my taste, cheers!)
+
 
